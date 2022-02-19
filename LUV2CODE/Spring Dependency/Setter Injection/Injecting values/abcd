@@ -1,0 +1,5 @@
+for injecting valayes --->
+steps 
+1)create private members like private emailaddress in class cricketcoach
+2)create its setter method 
+3)configure setter method with values  ---->        <property name="emailaddress" value="abcde@gmail.com"/>

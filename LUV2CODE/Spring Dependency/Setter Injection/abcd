@@ -1,1 +1,4 @@
-
+SETTER INJECTION 
+steps---->
+1)create setter method in class(cricketcoach and setter methd is setfortuneservice)
+2.)configure the setter method in applicationcontext.xml file (<!-- Setter injection -->    <property name="fortuneservice" ref="myfortune"/>  )

@@ -1,1 +1,5 @@
+in dependency injection ---->
 
+1)create class (happyfortuneservice) and inerface (Fortuneservice) 
+2.)create constructor in baseballcoach
+3.)configure it in applicationcontext.xml

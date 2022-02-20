@@ -1,0 +1,2 @@
+declare annotation in class(Tenniscoach) like --- @Component("thatsillycoach")
+then configure it in applicationcontext.xml file like------    <context:component-scan base-package="com.luv2code.annotation "></context:component-scan>

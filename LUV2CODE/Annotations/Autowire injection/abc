@@ -1,0 +1,4 @@
+autowire injected by 3 types
+1)constructor injection
+2)setter injection
+3)method injection

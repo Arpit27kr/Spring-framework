@@ -1,0 +1,2 @@
+@ComponentScan("com.luv2code.noxml") will scan for the @Configuration annotation which will be present inside the com.luv2code.noxml it 
+will automatically use that method of class. 

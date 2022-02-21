@@ -1,0 +1,2 @@
+Scope means what will be the life of the bean ex singleton will create objects with same address and prototype will create two object with different memory address.
+here tennis coach have both the examples .
